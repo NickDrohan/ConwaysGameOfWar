@@ -1,5 +1,5 @@
 # ConwaysGameOfWar
-[A modified version of Conway's game of life](ConwaysGameOfWar/ConwaysGameofWar.html)
+[A modified version of Conway's game of life](ConwaysGameofWar.html)
 
 Use Arrow keys or WASD to move.
 
